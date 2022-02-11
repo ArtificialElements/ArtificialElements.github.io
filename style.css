@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(24, 24, 24);
+}
+
+.titleimg {
+  background-color: darkgoldenrod; 
+  -webkit-text-fill-color: green;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 20px;
+}
+
+.whats-new{
+  font-style: oblique;
+  background-image: url(Images/green-box-500x500.png);
+  background-repeat: no-repeat;
+  background-size: 450px;
+  background-position-x: center;
+  text-align: center;
+  vertical-align: middle;
+  padding-bottom: 15px;
+}
+
+#whats-new-header {
+  -webkit-text-fill-color:black;
+  -webkit-text-stroke:0.1px;
+  -webkit-text-stroke-color:dimgrey;
+  background-image: url(Images/darker-green-box-500x500.png);
+  padding-top: 3px;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: 550px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 30px;
+  font-style: normal;
+}
+
+.game-table {
+
+}
